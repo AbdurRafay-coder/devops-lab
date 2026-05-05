@@ -1,1 +1,1 @@
-Hello. This is the first file in the feature branch, being created for the sole purpose of being tested on feature branch on the devops lab
+Now this file's purpose is to simply observe the changes, since we removed the first two workflows in the .github workflows folder
